@@ -1,0 +1,47 @@
+{
+  "bot-account": {
+    "username": "3mkkk7",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "serverF5.aternos.me",
+    "port": 36688 ,
+    "version": "1.12.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "" 
+    }, 
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 300,
+
+      "messages": [
+        "Lalo l3ziz 3mk",
+        "THANKS FOR COME"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
